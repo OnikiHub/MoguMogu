@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private  Button moguraNow;
     private RelativeLayout gameOver;
     private Timer moguraTimer = null;
-    //private TextView replayText;
+    private TextView replayText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
