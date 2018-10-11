@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private RelativeLayout gameOver;
     private Timer moguraTimer = null;
     private TextView replayText;
+    private Button oniki;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
